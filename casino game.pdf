@@ -1,0 +1,1007 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 28035>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (  1  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (#include <iostream>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.76 Tm 0 Tr (  2  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 47.76 Tm 0 Tr (#include <string> ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 138.75 47.76 Tm 0 Tr (// Needed to use strings) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.10 Tm 0 Tr (  3  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 59.10 Tm 0 Tr (#include <cstdlib> ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 143.55 59.10 Tm 0 Tr (// Needed to use random numbers) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.44 Tm 0 Tr (  4  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 70.44 Tm 0 Tr (#include <ctime>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (  5  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (using namespace ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 129.15 81.77 Tm 0 Tr (std) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 81.77 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (  6  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (  7  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 96.38 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 104.45 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 104.45 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 119.55 104.45 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+138.75 96.38 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 104.45 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 104.45 Tm 0 Tr (, ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 153.15 104.45 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+177.15 96.38 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 104.45 Tm 0 Tr (symbol) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 104.45 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (  8  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 107.72 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 115.79 Tm 0 Tr (rules) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 115.79 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.13 Tm 0 Tr (  9  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.47 Tm 0 Tr ( 10  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 138.47 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 130.40 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 138.47 Tm 0 Tr (main) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 138.47 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.81 Tm 0 Tr ( 11  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.81 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 12  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 161.14 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+105.15 153.07 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 161.14 Tm 0 Tr (playerName) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 161.14 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 13  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 172.48 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 164.41 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 172.48 Tm 0 Tr (amount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 172.48 Tm 0 Tr (; ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 129.15 172.48 Tm 0 Tr (// hold player's balance amount) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 183.82 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 183.82 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 175.75 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 183.82 Tm 0 Tr (bettingAmount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 183.82 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 187.09 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 195.16 Tm 0 Tr (guess) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 195.16 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.50 Tm 0 Tr ( 16  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.50 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 206.50 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+90.75 198.43 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 206.50 Tm 0 Tr (dice) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 206.50 Tm 0 Tr (; ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 119.55 206.50 Tm 0 Tr (// hold computer generated number) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.84 Tm 0 Tr ( 17  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.84 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 217.84 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+95.55 209.77 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 217.84 Tm 0 Tr (choice) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 217.84 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.18 Tm 0 Tr ( 18  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 19  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 232.44 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 240.51 Tm 0 Tr (srand) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 240.51 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+100.35 232.44 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 240.51 Tm 0 Tr (time) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 240.51 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 124.35 240.51 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 240.51 Tm 0 Tr (\)\); ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 148.35 240.51 Tm 0 Tr (// "Seed" the random generator) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr ( 20  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 21  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 255.12 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 263.19 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 263.19 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 263.19 Tm 0 Tr (60) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 263.19 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 263.19 Tm 0 Tr ('_') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 263.19 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr ( 22  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 274.53 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 274.53 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 274.53 Tm 0 Tr ("\\n\\n\\n\\t\\tCASINO GAME\\n\\n\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 274.53 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.87 Tm 0 Tr ( 23  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 285.87 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 277.80 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 285.87 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 285.87 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 285.87 Tm 0 Tr (60) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 285.87 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 285.87 Tm 0 Tr ('_') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 285.87 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.21 Tm 0 Tr ( 24  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.55 Tm 0 Tr ( 25  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.55 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 308.55 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 308.55 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 308.55 Tm 0 Tr ("\\n\\nEnter Your Name : ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 308.55 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 26  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 311.81 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 319.88 Tm 0 Tr (getline) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 319.88 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 319.88 Tm 0 Tr (cin) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 311.81 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 319.88 Tm 0 Tr (playerName) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 319.88 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 27  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 28  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 342.56 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 342.56 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 342.56 Tm 0 Tr ("\\n\\nEnter Deposit amount to play game : $") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 342.56 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 29  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 353.90 Tm 0 Tr (cin ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (>> ) Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 345.83 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 353.90 Tm 0 Tr (amount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 353.90 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.24 Tm 0 Tr ( 30  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.58 Tm 0 Tr ( 31  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.58 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 376.58 Tm 0 Tr (do) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.92 Tm 0 Tr ( 32  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.92 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 387.92 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 33  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 391.18 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 399.25 Tm 0 Tr (system) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 399.25 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 124.35 399.25 Tm 0 Tr ("cls") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 399.25 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr ( 34  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 402.52 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 410.59 Tm 0 Tr (rules) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 410.59 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr ( 35  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 421.93 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 421.93 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 421.93 Tm 0 Tr ("\\n\\nYour current balance is $ " ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 287.55 421.93 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+301.95 413.86 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 301.95 421.93 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 335.55 421.93 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 349.95 421.93 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 369.15 421.93 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr ( 36  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.61 Tm 0 Tr ( 37  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.61 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 90.75 444.61 Tm 0 Tr (// Get player's betting amount) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.95 Tm 0 Tr ( 38  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.95 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 455.95 Tm 0 Tr (do) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.29 Tm 0 Tr ( 39  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.29 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 467.29 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr ( 40  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 478.62 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 478.62 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 470.55 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 478.62 Tm 0 Tr (playerName) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 478.62 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 201.15 478.62 Tm 0 Tr (", enter money to bet : $") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 325.95 478.62 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr ( 41  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 489.96 Tm 0 Tr (cin ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 489.96 Tm 0 Tr (>> ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 481.89 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 489.96 Tm 0 Tr (bettingAmount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 489.96 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr ( 42  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 501.30 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 501.30 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 493.23 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 501.30 Tm 0 Tr (bettingAmount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 501.30 Tm 0 Tr (> ) Tj  ET Q
+1.000 1.000 1.000 rg
+201.15 493.23 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 501.30 Tm 0 Tr (amount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 501.30 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr ( 43  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (                ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 129.15 512.64 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 512.64 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 512.64 Tm 0 Tr ("Your betting amount is more than your current balance\\n") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.98 Tm 0 Tr ( 44  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 523.98 Tm 0 Tr (                       ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 523.98 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 172.35 523.98 Tm 0 Tr ("\\nRe-enter data\\n ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 523.98 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.32 Tm 0 Tr ( 45  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 535.32 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 535.32 Tm 0 Tr (}) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 535.32 Tm 0 Tr (while) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 535.32 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 527.25 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 535.32 Tm 0 Tr (bettingAmount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 535.32 Tm 0 Tr (> ) Tj  ET Q
+1.000 1.000 1.000 rg
+201.15 527.25 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 201.15 535.32 Tm 0 Tr (amount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 535.32 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.66 Tm 0 Tr ( 46  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr ( 47  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 557.99 Tm 0 Tr (        ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 90.75 557.99 Tm 0 Tr (// Get player's numbers) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr ( 48  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 569.33 Tm 0 Tr (do) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr ( 49  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 580.67 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 580.67 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr ( 50  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 592.01 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 592.01 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 592.01 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 592.01 Tm 0 Tr ("Guess your number to bet between 1 to 10 :") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 359.55 592.01 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.35 Tm 0 Tr ( 51  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 603.35 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 603.35 Tm 0 Tr (cin ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 603.35 Tm 0 Tr (>> ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 595.28 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 603.35 Tm 0 Tr (guess) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 603.35 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.69 Tm 0 Tr ( 52  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 614.69 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 614.69 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 614.69 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 606.62 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 614.69 Tm 0 Tr (guess ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 614.69 Tm 0 Tr (<= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 614.69 Tm 0 Tr (0 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 614.69 Tm 0 Tr (|| ) Tj  ET Q
+1.000 1.000 1.000 rg
+191.55 606.62 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 614.69 Tm 0 Tr (guess ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 614.69 Tm 0 Tr (> ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 229.95 614.69 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 614.69 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.03 Tm 0 Tr ( 53  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 626.03 Tm 0 Tr (                ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 129.15 626.03 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 626.03 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 167.55 626.03 Tm 0 Tr ("Please check the number!! should be between 1 to 10\\n") Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr ( 54  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 637.36 Tm 0 Tr (                    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 637.36 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 157.95 637.36 Tm 0 Tr ("\\nRe-enter data\\n ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 253.95 637.36 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr ( 55  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 648.70 Tm 0 Tr (}) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 648.70 Tm 0 Tr (while) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 648.70 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 640.63 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 648.70 Tm 0 Tr (guess ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 648.70 Tm 0 Tr (<= ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 167.55 648.70 Tm 0 Tr (0 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 648.70 Tm 0 Tr (|| ) Tj  ET Q
+1.000 1.000 1.000 rg
+191.55 640.63 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 648.70 Tm 0 Tr (guess ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 648.70 Tm 0 Tr (> ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 229.95 648.70 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 239.55 648.70 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr ( 56  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr ( 57  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 671.38 Tm 0 Tr (        ) Tj  ET Q
+1.000 1.000 1.000 rg
+90.75 663.31 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 90.75 671.38 Tm 0 Tr (dice ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 671.38 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 663.31 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 671.38 Tm 0 Tr (rand) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 671.38 Tm 0 Tr (\(\)%) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 157.95 671.38 Tm 0 Tr (10 ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 671.38 Tm 0 Tr (+ ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 181.95 671.38 Tm 0 Tr (1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 671.38 Tm 0 Tr (; ) Tj  ET Q
+q 0.745 0.745 0.902 rg BT 1 0 0 -1 196.35 671.38 Tm 0 Tr (// Will hold the randomly generated integer between 1 and 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.72 Tm 0 Tr ( 58  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.06 Tm 0 Tr ( 59  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 694.06 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 694.06 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 694.06 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 685.99 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 694.06 Tm 0 Tr (dice ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 694.06 Tm 0 Tr (== ) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 685.99 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 694.06 Tm 0 Tr (guess) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 694.06 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.40 Tm 0 Tr ( 60  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 705.40 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 705.40 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr ( 61  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 716.73 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 716.73 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 716.73 Tm 0 Tr ("\\n\\nGood Luck!! You won Rs." ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 292.35 716.73 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+306.75 708.66 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 306.75 716.73 Tm 0 Tr (bettingAmount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 373.95 716.73 Tm 0 Tr (* ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 383.55 716.73 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 393.15 716.73 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr ( 62  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 720.00 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 728.07 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 728.07 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 720.00 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 728.07 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 728.07 Tm 0 Tr (+ ) Tj  ET Q
+1.000 1.000 1.000 rg
+196.35 720.00 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 728.07 Tm 0 Tr (bettingAmount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 263.55 728.07 Tm 0 Tr (* ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 273.15 728.07 Tm 0 Tr (10) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 728.07 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr ( 63  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 739.41 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr ( 64  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 750.75 Tm 0 Tr (else) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr ( 65  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 762.09 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.43 Tm 0 Tr ( 66  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.43 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 773.43 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 773.43 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 773.43 Tm 0 Tr ("Bad Luck this time !! You lost $ ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 316.35 773.43 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+330.75 765.36 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 330.75 773.43 Tm 0 Tr (bettingAmount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 397.95 773.43 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 407.55 773.43 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 426.75 773.43 Tm 0 Tr (;) Tj  ET Q
+Q
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 23351>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr ( 67  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 36.42 Tm 0 Tr (            ) Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 28.35 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 36.42 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 36.42 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+153.15 28.35 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 153.15 36.42 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 36.42 Tm 0 Tr (- ) Tj  ET Q
+1.000 1.000 1.000 rg
+196.35 28.35 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 36.42 Tm 0 Tr (bettingAmount) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 258.75 36.42 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.76 Tm 0 Tr ( 68  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 47.76 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 47.76 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.10 Tm 0 Tr ( 69  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.44 Tm 0 Tr ( 70  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 70.44 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 70.44 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 70.44 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 70.44 Tm 0 Tr ("\\nThe winning number was : " ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 273.15 70.44 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+287.55 62.37 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 287.55 70.44 Tm 0 Tr (dice ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 311.55 70.44 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 321.15 70.44 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 340.35 70.44 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr ( 71  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 81.77 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 81.77 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 81.77 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 81.77 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 73.70 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 81.77 Tm 0 Tr (playerName) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 81.77 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 215.55 81.77 Tm 0 Tr (", You have $ " ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 292.35 81.77 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+306.75 73.70 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 306.75 81.77 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 340.35 81.77 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 354.75 81.77 Tm 0 Tr ("\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 373.95 81.77 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ( 72  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 93.11 Tm 0 Tr (if) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 93.11 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 85.04 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 93.11 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 93.11 Tm 0 Tr (== ) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 153.15 93.11 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 93.11 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr ( 73  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 104.45 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr ( 74  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 115.79 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 148.35 115.79 Tm 0 Tr ("You have no money to play ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 115.79 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.13 Tm 0 Tr ( 75  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.13 Tm 0 Tr (            ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 109.95 127.13 Tm 0 Tr (break) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 127.13 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.47 Tm 0 Tr ( 76  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 138.47 Tm 0 Tr (        ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 138.47 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.81 Tm 0 Tr ( 77  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 149.81 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 149.81 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 149.81 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 129.15 149.81 Tm 0 Tr ("\\n\\n-->Do you want to play again \(y/n\)? ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 330.75 149.81 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr ( 78  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 161.14 Tm 0 Tr (cin ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 161.14 Tm 0 Tr (>> ) Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 153.07 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 161.14 Tm 0 Tr (choice) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 161.14 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr ( 79  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 172.48 Tm 0 Tr (    ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 71.55 172.48 Tm 0 Tr (}) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 76.35 172.48 Tm 0 Tr (while) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 172.48 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 164.41 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 172.48 Tm 0 Tr (choice ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 172.48 Tm 0 Tr (==) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 148.35 172.48 Tm 0 Tr ('Y') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 172.48 Tm 0 Tr (|| ) Tj  ET Q
+1.000 1.000 1.000 rg
+177.15 164.41 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 172.48 Tm 0 Tr (choice) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 172.48 Tm 0 Tr (==) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 215.55 172.48 Tm 0 Tr ('y') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 172.48 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr ( 80  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr ( 81  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 195.16 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 195.16 Tm 0 Tr ("\\n\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 195.16 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.50 Tm 0 Tr ( 82  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.50 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 198.43 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 206.50 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 206.50 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 206.50 Tm 0 Tr (70) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 206.50 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 206.50 Tm 0 Tr ('=') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 206.50 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.84 Tm 0 Tr ( 83  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 217.84 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 217.84 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 217.84 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 217.84 Tm 0 Tr ("\\n\\nThanks for playing game. Your balance amount is $ " ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 383.55 217.84 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+397.95 209.77 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 397.95 217.84 Tm 0 Tr (amount ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 431.55 217.84 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 445.95 217.84 Tm 0 Tr ("\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 474.75 217.84 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.18 Tm 0 Tr ( 84  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.18 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 221.11 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 229.18 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 229.18 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 229.18 Tm 0 Tr (70) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 229.18 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 229.18 Tm 0 Tr ('=') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 229.18 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr ( 85  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr ( 86  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 251.85 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 105.15 251.85 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 251.85 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr ( 87  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr ( 88  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.87 Tm 0 Tr ( 89  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 285.87 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 277.80 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 285.87 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 285.87 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 119.55 285.87 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+138.75 277.80 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 285.87 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 285.87 Tm 0 Tr (, ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 153.15 285.87 Tm 0 Tr (char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+177.15 277.80 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 285.87 Tm 0 Tr (symbol) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 285.87 Tm 0 Tr (\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.21 Tm 0 Tr ( 90  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 297.21 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.55 Tm 0 Tr ( 91  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 308.55 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 71.55 308.55 Tm 0 Tr (for) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 308.55 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 90.75 308.55 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 300.48 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 308.55 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 308.55 Tm 0 Tr (=) Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 119.55 308.55 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 308.55 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 300.48 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 308.55 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 308.55 Tm 0 Tr (<) Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 300.48 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 308.55 Tm 0 Tr (n) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 308.55 Tm 0 Tr (; ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 300.48 4.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 308.55 Tm 0 Tr (i) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 308.55 Tm 0 Tr (++\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr ( 92  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (        ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 90.75 319.88 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 319.88 Tm 0 Tr (<< ) Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 311.81 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 319.88 Tm 0 Tr (symbol) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 319.88 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr ( 93  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 331.22 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 331.22 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 331.22 Tm 0 Tr ("\\n" ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 331.22 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr ( 94  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr ( 95  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.24 Tm 0 Tr ( 96  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 365.24 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 357.17 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 365.24 Tm 0 Tr (rules) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 365.24 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.58 Tm 0 Tr ( 97  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 376.58 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.92 Tm 0 Tr ( 98  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 387.92 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 379.85 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 387.92 Tm 0 Tr (system) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 387.92 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 387.92 Tm 0 Tr ("cls") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 387.92 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr ( 99  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 399.25 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 399.25 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 399.25 Tm 0 Tr ("\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 399.25 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (100  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 402.52 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 410.59 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 410.59 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 410.59 Tm 0 Tr (80) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 410.59 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 410.59 Tm 0 Tr ('-') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 410.59 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (101  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 421.93 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 421.93 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 421.93 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 421.93 Tm 0 Tr ("\\t\\tRULES OF THE GAME\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 229.95 421.93 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (102  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 425.20 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 433.27 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 433.27 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 433.27 Tm 0 Tr (80) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 433.27 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 433.27 Tm 0 Tr ('-') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 433.27 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.61 Tm 0 Tr (103  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 444.61 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 444.61 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 444.61 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 444.61 Tm 0 Tr ("\\t1. Choose any number between 1 to 10\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 311.55 444.61 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.95 Tm 0 Tr (104  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 455.95 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 455.95 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 455.95 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 455.95 Tm 0 Tr ("\\t2. If you win you will get 10 times of money you bet\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 388.35 455.95 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.29 Tm 0 Tr (105  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 467.29 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 71.55 467.29 Tm 0 Tr (cout ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 467.29 Tm 0 Tr (<< ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 109.95 467.29 Tm 0 Tr ("\\t3. If you bet on wrong number you will lose your betting amount\\n\\n") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 450.75 467.29 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (106  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 470.55 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 478.62 Tm 0 Tr (drawLine) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 109.95 478.62 Tm 0 Tr (\() Tj  ET Q
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 114.75 478.62 Tm 0 Tr (80) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 478.62 Tm 0 Tr (,) Tj  ET Q
+q 0.878 0.627 0.000 rg BT 1 0 0 -1 129.15 478.62 Tm 0 Tr ('-') Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 478.62 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (107  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 489.96 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (108  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (109  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (/* output) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.98 Tm 0 Tr (110  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.98 Tm 0 Tr (____________________________________________________________) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.32 Tm 0 Tr (111  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.66 Tm 0 Tr (112  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (113  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (114  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 569.33 Tm 0 Tr (                ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 129.15 569.33 Tm 0 Tr (CASINO GAME) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (115  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (116  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.35 Tm 0 Tr (117  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.69 Tm 0 Tr (118  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 614.69 Tm 0 Tr (____________________________________________________________) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.03 Tm 0 Tr (119  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (120  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (121  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 648.70 Tm 0 Tr (Enter Your Name : riya) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 660.04 Tm 0 Tr (122  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 671.38 Tm 0 Tr (123  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 682.72 Tm 0 Tr (124  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 682.72 Tm 0 Tr (Enter Deposit amount to play game : $9) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 694.06 Tm 0 Tr (125  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 705.40 Tm 0 Tr (126  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 716.73 Tm 0 Tr (127  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 716.73 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 728.07 Tm 0 Tr (128  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 728.07 Tm 0 Tr (                ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 129.15 728.07 Tm 0 Tr (RULES OF THE GAME) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 739.41 Tm 0 Tr (129  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 739.41 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 750.75 Tm 0 Tr (130  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 750.75 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 750.75 Tm 0 Tr (1. Choose any number between 1 to 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 762.09 Tm 0 Tr (131  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 762.09 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 762.09 Tm 0 Tr (2. If you win you will get 10 times of money you bet) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 773.43 Tm 0 Tr (132  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 773.43 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 773.43 Tm 0 Tr (3. If you bet on wrong number you will lose your betting amount) Tj  ET Q
+Q
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 6702>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+1.000 1.000 1.000 rg
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr (133  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.76 Tm 0 Tr (134  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 47.76 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.10 Tm 0 Tr (135  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.44 Tm 0 Tr (136  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr (137  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 81.77 Tm 0 Tr (Your current balance is $ 9) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr (138  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 93.11 Tm 0 Tr (riya, enter money to bet : $8) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr (139  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 104.45 Tm 0 Tr (Guess your number to bet between 1 to 10 :5) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr (140  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 115.79 Tm 0 Tr (Bad Luck this time !! You lost $ 8) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.13 Tm 0 Tr (141  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.47 Tm 0 Tr (142  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 138.47 Tm 0 Tr (The winning number was : 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.81 Tm 0 Tr (143  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (144  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 161.14 Tm 0 Tr (riya, You have $ 1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (145  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (146  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (147  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 195.16 Tm 0 Tr (-->Do you want to play again \(y/n\)? y) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.50 Tm 0 Tr (148  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.84 Tm 0 Tr (149  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 217.84 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.18 Tm 0 Tr (150  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.18 Tm 0 Tr (                ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 129.15 229.18 Tm 0 Tr (RULES OF THE GAME) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (151  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 240.51 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (152  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 251.85 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 251.85 Tm 0 Tr (1. Choose any number between 1 to 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (153  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.19 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 263.19 Tm 0 Tr (2. If you win you will get 10 times of money you bet) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (154  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 274.53 Tm 0 Tr (        ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (3. If you bet on wrong number you will lose your betting amount) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.87 Tm 0 Tr (155  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.21 Tm 0 Tr (156  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 297.21 Tm 0 Tr (--------------------------------------------------------------------------------) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.55 Tm 0 Tr (157  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (158  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 319.88 Tm 0 Tr (Your current balance is $ 1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (159  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 331.22 Tm 0 Tr (riya, enter money to bet : $1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (160  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 342.56 Tm 0 Tr (Guess your number to bet between 1 to 10 :8) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (161  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (Bad Luck this time !! You lost $ 1) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.24 Tm 0 Tr (162  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.58 Tm 0 Tr (163  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 376.58 Tm 0 Tr (The winning number was : 10) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.92 Tm 0 Tr (164  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (165  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 399.25 Tm 0 Tr (riya, You have $ 0) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (166  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 410.59 Tm 0 Tr (You have no money to play) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (167  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (168  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 433.27 Tm 0 Tr (======================================================================) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.61 Tm 0 Tr (169  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.95 Tm 0 Tr (170  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 455.95 Tm 0 Tr (Thanks for playing game. Your balance amount is $ 0) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.29 Tm 0 Tr (171  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (172  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 478.62 Tm 0 Tr (======================================================================) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (173  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (174  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 501.30 Tm 0 Tr (Process returned 0 \(0x0\)   execution time : 171.256 s) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (175  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 512.64 Tm 0 Tr (Press any key to continue.) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.98 Tm 0 Tr (176  ) Tj  ET Q
+q 0.627 0.627 0.627 rg BT 1 0 0 -1 52.35 523.98 Tm 0 Tr (*/) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+9 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 9 0 R
+/F1 10 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+11 0 obj
+<<
+/Names []
+>>
+endobj
+12 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 5)
+/CreationDate (D:20200903041413)
+>>
+endobj
+13 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000058516 00000 n 
+0000058811 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000028184 00000 n 
+0000028273 00000 n 
+0000051675 00000 n 
+0000051764 00000 n 
+0000058617 00000 n 
+0000058716 00000 n 
+0000058926 00000 n 
+0000058958 00000 n 
+0000059066 00000 n 
+trailer
+<<
+/Size 14
+/Root 13 0 R
+/Info 12 0 R
+>>
+startxref
+59170
+%%EOF
